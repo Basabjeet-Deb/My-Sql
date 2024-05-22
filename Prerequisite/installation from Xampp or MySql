@@ -1,4 +1,4 @@
-## Installation in Windows
+Installation in Windows
 
 1. Download XAMPP:
 Go to the Apache Friends website (https://www.apachefriends.org/index.html) and download the latest version of XAMPP for Windows.
@@ -21,7 +21,7 @@ By default, XAMPP MySQL has no password set for the root user. It's recommended 
 7. Create Databases and Users:
 Once you've secured your MySQL installation, you can start creating databases and users as needed using phpMyAdmin or any MySQL client of your choice.
 
-## Installation in Linux/Ubuntu
+Installation in Linux/Ubuntu
 
 1. Download XAMPP for Linux:
 Visit the Apache Friends website (https://www.apachefriends.org/index.html) and download the Linux version of XAMPP.
