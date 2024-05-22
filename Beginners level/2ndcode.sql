@@ -1,4 +1,4 @@
-Find the IDs of all students who were taught by an instrutor named Ein-stein; make sure there are no duplicates in the result.
+*/Find the IDs of all students who were taught by an instrutor named Ein-stein; make sure there are no duplicates in the result.*/
 
 select distinct takes.ID
 from takes, instructor, teaches
